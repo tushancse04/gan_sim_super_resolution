@@ -3,28 +3,28 @@ Super resolution image generation from 15 combination of low resolution microsco
 
 ## Sample inputs
 <p float="left">
-  <img src="images/img0.png" width="170" />
-  <img src="images/img1.png" width="170" />
-  <img src="images/img2.png" width="170" /> 
-  <img src="images/img3.png" width="170" />
-   <img src="images/img4.png" width="170" />
+  <img src="images/img0.png" width="160" />
+  <img src="images/img1.png" width="160" />
+  <img src="images/img2.png" width="160" /> 
+  <img src="images/img3.png" width="160" />
+   <img src="images/img4.png" width="160" />
 </p>
 
 <p float="left">
-  <img src="images/img5.png" width="170" />
-  <img src="images/img6.png" width="170" />
-  <img src="images/img7.png" width="170" /> 
-  <img src="images/img8.png" width="170" />
-   <img src="images/img9.png" width="170" />
+  <img src="images/img5.png" width="160" />
+  <img src="images/img6.png" width="160" />
+  <img src="images/img7.png" width="160" /> 
+  <img src="images/img8.png" width="160" />
+   <img src="images/img9.png" width="160" />
 </p>
 
 
 <p float="left">
-  <img src="images/img10.png" width="170" />
-  <img src="images/img11.png" width="170" />
-  <img src="images/img12.png" width="170" /> 
-  <img src="images/img13.png" width="170" />
-   <img src="images/img14.png" width="170" />
+  <img src="images/img10.png" width="160" />
+  <img src="images/img11.png" width="160" />
+  <img src="images/img12.png" width="160" /> 
+  <img src="images/img13.png" width="160" />
+   <img src="images/img14.png" width="160" />
 </p>
 
 
